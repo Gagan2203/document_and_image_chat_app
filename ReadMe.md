@@ -86,11 +86,7 @@ The frontend:
 - If the text extraction from images or PDFs isn't working as expected, ensure the file quality is good.
 
 ## Demo 
-<video width="600" controls>
-  <source src="document_chat_app.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Demo Video](Document_chat_app_working.gif)
 
 ### **Developed by Gagan Mehta ❤️☕**
 
